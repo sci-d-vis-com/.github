@@ -1,2 +1,2 @@
 # .github
-About Science-D-Visions GmbH
+Vendor of 3DEqualizer4, Matchmoving Software
